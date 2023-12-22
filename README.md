@@ -73,7 +73,8 @@ THEN I should have proper build scripts for a webpack application
 
 
 ## Credits
-Thank yo for viewing my project! Along side TA's and team mates I was able to successfully build this app! 
+Thank yo for viewing my project! Along side TA's and team mates I was able to successfully build this app! (https://github.com/tfkjosh/PWA-Challenge/blob/main/README.md)
+
 
 ##License
 
