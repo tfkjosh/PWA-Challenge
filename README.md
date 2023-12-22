@@ -8,15 +8,17 @@ J.A.T.E is a Progressive Web Application (PWA) that runs in the browser, offline
 1. [Description](#description)
 2. [Table of Contents](#table-of-contents)
 3. [Usage](#usage)
-4. [Installation](#installation)
-5. [License](#license)
-6. [Technologies Employed](#technologies-employed)
-7. [Future Development](#future-development)
-8. [Contributing](#contributing)
-9. [Tests](#tests)
-10. [Questions](#questions)
+4. [User Story](#userstory)
+5. [Acceptance Criteria](#acceptancecriteria)
+6. [Installation](#installation)
+7. [Credits](#credits)
+8. [License](#license)
+
 
 ## Usage
+This application is deployed to [Heroku](https://pwa-challenge1-b508091ee337.herokuapp.com/).
+
+
 ### User Story
 
 ```md
@@ -56,9 +58,44 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Installation
-This application is deployed to [Heroku](https://pwa-challenge1-b508091ee337.herokuapp.com/).
+
+1. Create a new repository on your GitHub account and clone it to your computer.
+
+2. When you're ready to deploy, use `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
+
+3. Navigate in your browser to your GitHub repository and then navigate into your repository's `Settings` tab on the right side of the repository's page.
+
+4. From the settings page, scroll down to the GitHub Pages section and then, in the section labeled `Source`, select that you would like to use the `main` branch as your source.
+
+5. Navigate to `<your-github-username>.github.io/<your-repo-name>` and you will find that your new web page has gone live! (For example, if your GitHub username is `lernantino` and the project is `css-demo-site`, your URL would be `lernantino.github.io/css-demo-site`)
+
+6. Next, use the terminal to run the command npm i to install the dependencies associated with this application (developers may need to install dependencies directly from the command line).
 
 
+## Credits
+Thank yo for viewing my project! Along side TA's and team mates I was able to successfully build this app! 
 
-- - -
-© 2022 Just Another Text Editor (J.A.T.E): PWA by ISayani Creative Services, Confidential and Proprietary. All Rights Reserved.
+##License
+
+MIT License
+
+Copyright (c) [2023] [Joshua King]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
