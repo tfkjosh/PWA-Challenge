@@ -71,6 +71,11 @@ THEN I should have proper build scripts for a webpack application
 
 6. Next, use the terminal to run the command npm i to install the dependencies associated with this application (developers may need to install dependencies directly from the command line).
 
+8. Pull down and/or branch this repository
+
+9. Run ```npm i``` to install all dependencies
+
+10. Invoke application with ```npm run start```
 
 ## Credits
 Thank yo for viewing my project! Along side TA's and team mates I was able to successfully build this app! (https://github.com/tfkjosh/PWA-Challenge/blob/main/README.md)
